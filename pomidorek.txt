@@ -8,6 +8,7 @@ Groch zzieleniał aż ze złości:
 Jak pan może,
 Panie pomidorze?!
 
+<<<<<<< HEAD
 
 Pan pomidor, zawstydzony,
 Cały zrobił się czerwony
@@ -15,14 +16,23 @@ I spadł wprost ze swojej tyczki
 Do koszyczka ogrodniczki.
  
 
+=======
+>>>>>>> 7e3a38798ce19056b351986270e76028df2b2279
 Rzepa także go zagadnie:
 — Fe! Niedobrze! Fe! Nieładnie!
 Jak pan może,
 Panie pomidorze?!
 
+<<<<<<< HEAD
 
 Pan pomidor, zawstydzony,
 Cały zrobił się czerwony
 I spadł wprost ze swojej tyczki
 Do koszyczka ogrodniczki.
 
+=======
+Rozgniewały się warzywa:
+— Pan już trochę nadużywa.
+Jak pan może,
+Panie pomidorze?!
+>>>>>>> 7e3a38798ce19056b351986270e76028df2b2279
